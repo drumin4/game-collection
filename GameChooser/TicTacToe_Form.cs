@@ -284,7 +284,7 @@ namespace TicTacToeProject
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Made by Leo", "Info");
+            MessageBox.Show("Made by Alexandru Mincu", "Info");
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
