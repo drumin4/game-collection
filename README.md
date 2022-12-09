@@ -1,5 +1,5 @@
 
-# LeaveMS (Management System)
+# Game Collection
 
 
 UFO Prowl & Tic Tac Toe are strictly windows-only programs and their purpose is mainly recreational, as they are meant to entertain their players.
