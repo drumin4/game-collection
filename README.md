@@ -54,5 +54,5 @@ These 2 games together have been a change of pace from my previous projects and 
 Overall, working on them was entertaining and refreshing. They helped me gain an understanding of how physics and AI work in videogames while also giving me the opportunity to perfect my skills.
 
 ## 🚀 About Me
-I'm a young, ambitious self-taught programmer, looking forward to getting out of my comfort zone and achieving great things along other inspiring programmers. 
+I'm a young, ambitious programmer, looking forward to getting out of my comfort zone and achieving great things along other inspiring programmers. 
 
